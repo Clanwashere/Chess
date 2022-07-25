@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="swissTournaments">Schweizer-turneringar</string>
+  <plurals name="viewAllXRounds" comment="viewAllXRounds [one] [other]&#10;&#10;%s is the number of rounds in the Swiss tournament.">
+    <item quantity="one">Visa rundan</item>
+    <item quantity="other">Visa alla %s rundor</item>
+  </plurals>
+  <plurals name="nbRounds" comment="%s is currentRound/maxRounds e.g. 5/9&#10;maxRounds is always at least 3">
+    <item quantity="one">%s rundor</item>
+    <item quantity="other">%s rundor</item>
+  </plurals>
+  <plurals name="oneRoundEveryXDays">
+    <item quantity="one">En runda per dag</item>
+    <item quantity="other">En runda varje %s dagar</item>
+  </plurals>
+  <string name="nextRound">Nästa runda</string>
+  <plurals name="ongoingGames" comment="Displayed next to the ongoing games count">
+    <item quantity="one">Pågående parti</item>
+    <item quantity="other">Pågående partier</item>
+  </plurals>
+  <string name="numberOfRounds">Antal rundor</string>
+  <string name="numberOfRoundsHelp">Ett udda antal rundor möjliggör optimal färgbalans.</string>
+  <string name="roundInterval">Intervall mellan rundor</string>
+  <string name="forbiddenPairings">Förbjudna parningar</string>
+</resources>

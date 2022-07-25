@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="coordinates">Kordinata</string>
+  <string name="coordinateTraining">Trajnim kordinatash</string>
+  <string name="averageScoreAsWhiteX">Rezultati mesatar si i bardhë: %s</string>
+  <string name="averageScoreAsBlackX">Rezultati mesatar si i zi: %s</string>
+  <string name="knowingTheChessBoard">Njohja e koordinatave të fushës është një aftësi shumë e rëndësishme e shahut:</string>
+  <string name="mostChessCourses">Shumica e kurseve dhe ushtrimeve të shahut përdorin gjerësisht shënimet algjebrike.</string>
+  <string name="talkToYourChessFriends">E bën më të lehtë të bisedoni me shokët tuaj të shahut, ngaqë të dy kuptoni “gjuhën e shahut”.</string>
+  <string name="youCanAnalyseAGameMoreEffectively">Një lojë mund ta analizoni më me efikasitet, nëse kuptoni shpejt koordinatat.</string>
+  <string name="startTraining">Filloni trajnimin</string>
+  <string name="findSquare">Gjeni kuadrat</string>
+  <string name="nameSquare">Emërtoni kuadratin</string>
+</resources>
